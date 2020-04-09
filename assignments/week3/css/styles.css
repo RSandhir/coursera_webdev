@@ -10,7 +10,7 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #1904a3;
+    background-color: #16019c;
     border-radius: 0;
     border: 0;
 }
@@ -20,7 +20,7 @@ body {
 }
 
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+    background-color: #0a76f1;
 }
 
 .navbar-collapse {
